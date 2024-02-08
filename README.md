@@ -1,4 +1,4 @@
-# CSE546-Project1
+# IaaS Cloud Computing
 Documentation for Running App-Tier and Web-Tier Flask Servers
 
 1. Prerequisites:
